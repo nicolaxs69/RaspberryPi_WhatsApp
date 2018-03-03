@@ -7,7 +7,7 @@ from yowsup.layers.coder                       import YowCoderLayer
 from yowsup.layers.network                     import YowNetworkLayer
 from yowsup.env                                import YowsupEnv
 
-CREDENTIALS = ("phone", "password") #replace with your phone and password
+CREDENTIALS = ("51925103639", "/eBWNSwJZ/najRycLaBaBsMOF1s=") #replace with your phone and password
 
 if __name__==  "__main__":
     stackBuilder = YowStackBuilder()

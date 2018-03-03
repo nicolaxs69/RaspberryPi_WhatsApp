@@ -52,7 +52,7 @@ class EchoLayer(YowInterfaceLayer):
 
         print "Mesaje: "+str(message)
 
-        if message == 'Hola Turingpi':
+        if message == 'Hola':
             answer = "Hola como has estado hoy ?"
             self.toLower(textmsg(answer, to = recipient ))
             print answer
